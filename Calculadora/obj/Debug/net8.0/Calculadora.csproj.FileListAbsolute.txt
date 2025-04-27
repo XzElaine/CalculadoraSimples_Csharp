@@ -1,0 +1,29 @@
+D:\2. Exericios C#\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\2. Exericios C#\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\2. Exericios C#\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\2. Exericios C#\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\2. Exericios C#\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\2. Exericios C#\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\bin\Debug\net8.0\Calculadora.exe
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\bin\Debug\net8.0\Calculadora.dll
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.dll
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+D:\2. Exericios C#\Pasta github\CalculadoraSimples_Csharp\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
